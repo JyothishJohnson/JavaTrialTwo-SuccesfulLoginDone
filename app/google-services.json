@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "82641620437",
+    "firebase_url": "https://javatrialtwo-161617.firebaseio.com",
+    "project_id": "javatrialtwo-161617",
+    "storage_bucket": "javatrialtwo-161617.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82641620437:android:862944a2c4e1f908",
+        "android_client_info": {
+          "package_name": "com.example.android.javatrialtwo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82641620437-c8b4fr98jdi1f13saeash63m34qlfsfq.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "82641620437-8l7i3vmcpkjj4h6n01i3gvjtuoieufj2.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "82641620437-am1aahm45ro144joh1s8gerq6nsba0ot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.javatrialtwo",
+            "certificate_hash": "d9118dc8ce8b6044de348ac0e0b2459b65496dda"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7AHpgqyozHStbOkKRZzzxhCf8TUYx9mg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82641620437-c8b4fr98jdi1f13saeash63m34qlfsfq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

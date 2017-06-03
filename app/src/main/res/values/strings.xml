@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">JavaTrialTwo</string>
+    <string name="basic_concepts">Basic Concepts</string>
+    <string name="control_statements">Control Statements</string>
+    <string name="arrays">Arrays</string>
+    <string name="classes_and__objects">Classes And Objects</string>
+    <string name="moreonclasses">More On Classes</string>
+    <string name="facebook_app_id">1360598527312930</string>
+
+    <string name="exceptions">Exceptions and More</string>
+
+    <string-array name="videoLinks">
+        <item>mKzLoZFz8PE</item>
+        <item>aIbdKrb0qQk</item>
+        <item>2n73O65J4_U</item>
+        <item>Wlls4CgRR1M</item>
+        <item>pv2-c8wPmHU</item>
+        <item>Zy_6zOwDTpA</item>
+        <item>Dq0F4Sg4GTs</item>
+        <item>koXHJMr6EHs</item>
+        <item>mZg9O5CjKg4</item>
+        <item>_lT5b_22VSM</item>
+
+    </string-array>
+
+    <string-array name="basicTopics">
+        <item>2 First I created the strings which we use as the content in our app example.
+            In total I have two String Arrays. The first one containing the content which is
+            populated in the different activities and the second String Array which is used to
+            populate the dialog window.
+        </item>
+        <item>Android is a mobile operating system developed by Google, based on the Linux kernel
+            and designed primarily for touchscreen mobile devices such as smartphones and tablets.
+            Android\'s user interface is mainly based on direct manipulation, using touch gestures
+            that loosely correspond to real-world actions, such as swiping, tapping and pinching,
+            to manipulate on-screen objects, along with a virtual keyboard for text input.
+        </item>
+
+        <item>3First I created the strings which we use as the content in our app example.
+            In total I have two String Arrays. The first one containing the content which is
+            populated in the different activities and the second String Array which is used to
+            populate the dialog window.
+        </item>
+        <item>4First I created the strings which we use as the content in our app example.
+            In total I have two String Arrays. The first one containing the content which is
+            populated in the different activities and the second String Array which is used to
+            populate the dialog window.
+        </item>
+        <item>5First I created the strings which we use as the content in our app example.
+            In total I have two String Arrays. The first one containing the content which is
+            populated in the different activities and the second String Array which is used to
+            populate the dialog window.
+        </item>
+        <item>6First I created the strings which we use as the content in our app example.
+            In total I have two String Arrays. The first one containing the content which is
+            populated in the different activities and the second String Array which is used to
+            populate the dialog window.
+        </item>
+        <item>7First I created the strings which we use as the content in our app example.
+            In total I have two String Arrays. The first one containing the content which is
+            populated in the different activities and the second String Array which is used to
+            populate the dialog window.
+        </item>
+        <item>8First I created the strings which we use as the content in our app example.
+            In total I have two String Arrays. The first one containing the content which is
+            populated in the different activities and the second String Array which is used to
+            populate the dialog window.
+        </item>
+        <item>9First I created the strings which we use as the content in our app example.
+            In total I have two String Arrays. The first one containing the content which is
+            populated in the different activities and the second String Array which is used to
+            populate the dialog window.
+        </item>
+        <item>10 First I created the strings which we use as the content in our app example.
+            In total I have two String Arrays. The first one containing the content which is
+            populated in the different activities and the second String Array which is used to
+            populate the dialog window.
+        </item>
+
+    </string-array>
+</resources>
